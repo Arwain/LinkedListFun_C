@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/arwai/CLionProjects/HW5/list.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+list.h
+/cygdrive/c/Users/arwai/CLionProjects/HW5/list.h
+
+/cygdrive/c/Users/arwai/CLionProjects/HW5/list.h
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/arwai/CLionProjects/HW5/main.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+/cygdrive/c/Users/arwai/CLionProjects/HW5/list.h
+
