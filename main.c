@@ -1,5 +1,5 @@
 /*
- * CSS333 - HW5 - main.c
+ * main.c
  *
  * @author - Arwain Giannini-Karlin
  * @date - 2/16/2017
